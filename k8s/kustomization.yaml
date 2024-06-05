@@ -7,3 +7,4 @@ resources:
   - redis1.yaml
   - redis2.yaml
   - backend-monitoring.yaml
+  - elasticSearch.yaml
